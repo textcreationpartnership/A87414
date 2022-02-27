@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull nevves from the Princes fleet at sea; containing a narrative of the several fights and ingagements, between the two Navies, the Bristoll Men of War, and the London and Yarmouth Marchants, since the first of Aprill 1649. With the resolution of the Princes sea-men touching the Parliament and Army and two of them adjudged to die, and to be hang'd up at the main masts, for declaring against the proceedings of prince Rupert. As also the manner how they were rescued from him by the rest of the mariners. Likewise, a great victory obtained by Col. Jones in Ireland, against the Marquesse of Ormond. And the proposals of the Lord Inchiquins army, to be sent to the parliament of England. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87414</idno>
+            <idno type="STC">Wing J1150</idno>
+            <idno type="STC">Thomason E550_20</idno>
+            <idno type="STC">ESTC R205648</idno>
+            <idno type="EEBO-CITATION">99864967</idno>
+            <idno type="PROQUEST">99864967</idno>
+            <idno type="VID">117200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87414)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117200)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E550[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull nevves from the Princes fleet at sea; containing a narrative of the several fights and ingagements, between the two Navies, the Bristoll Men of War, and the London and Yarmouth Marchants, since the first of Aprill 1649. With the resolution of the Princes sea-men touching the Parliament and Army and two of them adjudged to die, and to be hang'd up at the main masts, for declaring against the proceedings of prince Rupert. As also the manner how they were rescued from him by the rest of the mariners. Likewise, a great victory obtained by Col. Jones in Ireland, against the Marquesse of Ormond. And the proposals of the Lord Inchiquins army, to be sent to the parliament of England. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Aprill 12. ... Printed for R. Williamson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117200:1" rendition="simple:additions"/>
+            <p>JOYFULL NEVVES <hi>FROM</hi> The Princes Fleet at Sea; containing a Narrative of the ſeveral Fights and Ingagements, between the two Navies, the <hi>Briſtoll</hi> Men of War, and the <hi>London</hi> and <hi>Yarmouth</hi> Marchants, ſince the firſt of <hi>Aprill</hi> 1649. With the Reſolution of the Princes Sea-men touching the Parliament and Army and two of them adjudged to die, and to be hang'd up at the main Maſts, for de<g ref="char:EOLhyphen"/>claring againſt the proceedings of prince <hi>Rupert.</hi> As alſo the manner how they were reſcued from him by the reſt of the Mariners. Likewiſe, a great Victory obtained by Col. <hi>Jones</hi> in <hi>Ireland,</hi> againſt the Marqueſſe of <hi>Ormond.</hi> And the propoſals of the Lord <hi>Inchiquins</hi> Army, to be ſent to the parliament of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of ships at sea</figDesc>
+            </figure>
+            <p>
+               <hi>Aprill</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2. <hi>London</hi> Printed for <hi>R. Williamſon,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:117200:2"/>
+            <pb n="1" facs="tcp:117200:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>JOYFULL NEWES From the Fleet at SEA, And a Narrative of the ſeverall Fights and Ingage<g ref="char:EOLhyphen"/>ments between the two Navies, ſince the firſt of <hi>Aprill,</hi> 1649.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">S</seg>Ince my laſt of the ſecond of this inſtant, we have received certain information of the further proceedings of the Prin<g ref="char:EOLhyphen"/>ces Fleet, and that they have <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Navy into three Squadrons; the firſt commanded by Prince <hi>Rupert,</hi> who is to guard the Iriſh Seas, and to attend the motion of Col. <hi>Jones</hi> Governor of the City of <hi>Dublin</hi> for the Parliament of <hi>England;</hi> the ſecond, by Prince <hi>Maurice,</hi> who with 20 Sayle is
+<pb n="2" facs="tcp:117200:3"/>to attend the motion of Captain <hi>Moulton</hi> in the We<g ref="char:EOLhyphen"/>ſtern Riding; the third by Captain <hi>Jerden,</hi> deſigned for the Lands-End, to attend the motion and coming out of the parliaments Summers Fleet; all which, though numerous in ſhipping, yet weakly man'd, and dare not engage, unleſſe with great advantage, the Sea<g ref="char:EOLhyphen"/>men begin to moulter in their affections, and ſhew a great diſlike of the proceedings of their Officers; for divers who have eſcaped at their coming into Creekes, do declare, That they begin to languiſh for their late perfidious Revolt, and would fain make a recantation, and that if once they could have the opportunity to come aſhore, are unanimouſly reſolved to deſert the princes ſervice: however, if they cannot purchaſe their liberty one way, they are reſolved to faciliate it ano<g ref="char:EOLhyphen"/>the; and that upon a neer Engagement with the Parlia<g ref="char:EOLhyphen"/>ments Fleet, it is believed they will take the ſame reſo<g ref="char:EOLhyphen"/>lution as the Land Souldiers have formerly done, and (upon good articles and conditions) deliver up their Officers to mercy, &amp;c.</p>
+                  <p>Some action hath lately hapned between divers Mar<g ref="char:EOLhyphen"/>chants, and prince <hi>Manrice</hi> his ſhips, and much hurt done on both ſides; but after ſome diſpute, and ſeverall boardings, the Victory fell to the Marchant Men of War, who ſunk two of the revolted ſhips, wherin was 50 piece of Ordnance, and chaſed the reſt above ſeven Leagues, but by reaſon of a ſtorm, they were forced to deſiſt from further purſuit, and to leave them to the mercy of the raging Billowes.</p>
+                  <p>Theſe ſhips are ſaid to be bound for <hi>London, Lyn,</hi> and <hi>Yarmouth,</hi> who hold conjunction together for the ſafety and preſervation of their Marchandize.</p>
+                  <pb n="3" facs="tcp:117200:3"/>
+                  <p>Since which time we have received other joyfull in<g ref="char:EOLhyphen"/>telligence from the <hi>Maurician</hi> Fleet, and it is likewiſe confirmed by two men of War who laſt night caſt anchor in this Harbour: they purport, that upon their croſſing the Weſtern Channell, they were ſet upon by ſix of the princes ſhips, who gave them 12. broad ſides, but were anſwered again with another Volley from the Sons of <hi>Mars,</hi> and after a hot conflict, be<g ref="char:EOLhyphen"/>came victiorious, killing many of their men, chaſing the reſt, ſome taking their purſuit without a Maſt, o<g ref="char:EOLhyphen"/>thers without a ſtern, and their Sayls all rent and torn. But by reaſon of the diſtempers of the Sea, and the dangerous breaches they had received from the Ene<g ref="char:EOLhyphen"/>mies round ſhot, were forced to ſtrike in here for re<g ref="char:EOLhyphen"/>fuge, for the repairing and new rigging of their ſhips. Thoſe who have been in action with them, report them to be as cowardly an Enemy, as ever engaged upon the Neptune Seas, and that 30 of the parliaments ſhips wel man'd, will (in all probability) ſoon expell the fury of 60 of theirs.</p>
+                  <p>We heare that Capt. <hi>Moulton</hi> is in a defenſive po<g ref="char:EOLhyphen"/>ſture, and that he ſayles ſometimes within ſight of the princes Fleet, but declines engagement at preſent.</p>
+                  <p>We likewiſe hear of a great inſurrection ariſing in prince <hi>Ruperts</hi> Squadron, the manner thus: two Sea<g ref="char:EOLhyphen"/>man ſpeaking ſome words touching the unjuſtneſſe of their cauſe, and the unlawfulneſſe of their engagement, being over-heard, were brought before the prince, and (according to Martial Law) were adjudged to die, and to be hang'd up at the main Maſt, but the Seamen hea<g ref="char:EOLhyphen"/>ring thereof, unanimouſly reſcued him from the po<g ref="char:EOLhyphen"/>wer of the Marſhal; other Captains were ſummoned, to ſee the princes tyranny performed, but their Mariners likewiſe joyntly reſolved not to execute the ſame.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Bristoll</hi> 
+                        <date>7. <hi>Aprill,</hi> 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="4" facs="tcp:117200:4"/>
+            <p>The COMMONS of <hi>England</hi> aſſembled in parlament taking into their ſerious conſideration, the great prejudice &amp; apparent danger that might be<g ref="char:EOLhyphen"/>fall this City and Nation, if the four Aldermen for<g ref="char:EOLhyphen"/>merly committed to the Tower, <hi>viz.</hi> Alderman <hi>Bunch</hi> Alderman <hi>Langham,</hi> and — and the late Lord Ma<g ref="char:EOLhyphen"/>jor ſhould be continued any Office, or publique em<g ref="char:EOLhyphen"/>ployment, after mature deliberation in reference ther<g ref="char:EOLhyphen"/>unto, Ordered, that the ſaid four Aldermen, and the late Lord Major <hi>Reynaldſon</hi> ſhould be diſabled Aldermen of the City of <hi>London,</hi> or bear any Office or Employ<g ref="char:EOLhyphen"/>ment in this Common-wealth, and that the Common-councell do proceed to the election of new Aldermen in their ſteads.</p>
+            <p>And upon information given, that there was matter of proof ſufficient for convicting Major Gen. <hi>Browne,</hi> now priſoner to the parl. the Houſe ſpent ſome time in debate thereof, and at the laſt came to this Reſult:</p>
+            <p>
+               <hi>Reſolved by the Commons of</hi> England <hi>aſſembled in par<g ref="char:EOLhyphen"/>liament,</hi> That the ſaid Major Gen. <hi>Brown</hi> ſhal be forth<g ref="char:EOLhyphen"/>with brought to his Tryall.</p>
+            <p>
+               <hi>Reſolved. &amp;c.</hi> That a Charge be drawn up againſt him, for the convicting him of ſuch crimes and miſde<g ref="char:EOLhyphen"/>meanours, as ſhall be exhibited and made good upon matter of proof; it appearing that there is ſufficient teſtimony and witneſſe, <hi>viz.</hi> 1 That he hath beene a great Inſtrument in abetting and promoting the laſt Rebellion in <hi>Kent, Eſsex,</hi> and ſeverall other parts of this Nation. 2 That there had been ſeverall levyes of mo<g ref="char:EOLhyphen"/>ney, and that he had received the ſum of 10000, <hi>li.</hi> for the better faciliating and carrying on of that trayterus work and deſign, againſt the Parl. and people of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> &amp;c. For theſe, and many other crimes and miſde<g ref="char:EOLhyphen"/>meanours, he is adjudged (in the name of the Comons
+<pb n="5" facs="tcp:117200:4"/>of <hi>England</hi>) to be brought to a fair and legal tryal, but the time and place not yet prefixed.</p>
+            <p>The honorable Court of parl. have alſo taken into their ſerious conſideration, the manifold hardens and oppreſſures of the people of this Nation, and have de<g ref="char:EOLhyphen"/>bated a way for the prevention thereof for the future and have ordered a Declaration to be brought in con<g ref="char:EOLhyphen"/>ſiſting of ſeverall particulars touching Religion, the compoſing of all differences, the redreſſing of grievan<g ref="char:EOLhyphen"/>ces, the eaſing of the people from all burdens and hea<g ref="char:EOLhyphen"/>vy oppreſſures, and the ſetling of this diſtracted church and common-wealth, as it ſhall ſtand enacted and con<g ref="char:EOLhyphen"/>firmed for the future; and to the end that the people of this Nation may receive a little glimpſe of their future freedom, I ſhall here inſert the chief heads of the groundwork of their Declaration, <hi>viz.</hi> 1 That the Miniſtery of the Goſpel ſhal not have their Tythes ta<g ref="char:EOLhyphen"/>ken away, until another way be provided for them as a ſufficient maintenance. 2 That the Government to bee eſtabliſhed in <hi>England,</hi> ſhal be the <hi>presbyterian govern<g ref="char:EOLunhyphen"/>ment,</hi> and to be erected in ſuch a manner, that the pu<g ref="char:EOLhyphen"/>rity and ſplendor of the Goſpel may ſhine forth tho<g ref="char:EOLhyphen"/>row out all corners of this Nation. 4 That a way ſhall be provided for admiſſion of all ſuch churches as tend to godlineſſe, and the advancement of the ſacred Word of Jeſus Chriſt, and to be without diſturbance. 4 That all ſuch Miniſters, or other perſons whatſoever, who ſhal endeavour to promote ſinne, and diſhonour the truth, ſhall bee ſuppreſt, and proceeded againſt accor<g ref="char:EOLhyphen"/>ding to the penalty of their Crime or Fact. Theſe, and other particulars, are now in debate, which will ſud<g ref="char:EOLhyphen"/>denly be of maturity for the publike view. The com<g ref="char:EOLhyphen"/>mons have alſo ordered that the committee of the Ar<g ref="char:EOLhyphen"/>my
+<pb n="6" facs="tcp:117200:5"/>be required to bring in an Act, with certain Rules how to take off the Monſter of Nature <hi>Eree quarter,</hi> &amp; all other charges from the people, and therefore reſol<g ref="char:EOLhyphen"/>ved, that a committee ſhould be nominated to adviſe with his Excellency, and the Officers of the Army, in relation thereunto.</p>
+            <p>Letters from <hi>Cheſter</hi> ſay, That renowned Col. <hi>Jones</hi> is marched forth into the field with 3000 Horſe and Foot, and hath fallen upon ſome of the Enemies quar<g ref="char:EOLhyphen"/>ters within 20 miles of <hi>Dublin,</hi> put many to the ſword relieved two caſtles, who were in great diſtreſſe, and even at the laſt gaſp of being devoured by the barba<g ref="char:EOLhyphen"/>rous and bloud-thirſty Rebels; After which he mar<g ref="char:EOLhyphen"/>ched up further into the Country, whoſe endeavours and motion being crowned with proſperous ſucceſſe, returned again to the City, with ſome proviſions and neceſſaries for the relief of his Souldiery, and the di<g ref="char:EOLhyphen"/>ſtreſſed Inhabitants thereof: From whence wee alſo hear, that the Lord <hi>Inchiquins</hi> Briggade, conſiſting of 4000 Foot, and 2500. Horſe, decline engagement with <hi>Ormond</hi> againſt the Engliſh, and that there are divers propoſals in a preparative way to be preſented to the parliament of <hi>England,</hi> conſiſting of ſeverall Branches touching a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Act of Oblivion, their joyning with Colonell</hi> Jones, <hi>and their reception into future pay;</hi> All which will prove Inſtrumentall motives, for reducing that Kingdom from tyranny and oppreſſion, and reſtoring of it, to its juſt liberty and freedom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur, </p>
+            <closer>
+               <signed>TH<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>O: JENNINGS.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
